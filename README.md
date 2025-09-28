@@ -22,7 +22,7 @@ Ikuti langkah-langkah berikut untuk menjalankan project ini di lokal:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/nama-project.git
+git clone https://github.com/sarephidayat/Template-Admin
 cd nama-project
 ```
 
@@ -54,7 +54,7 @@ Edit file `.env` sesuai database lokal Anda:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=nama_db
+DB_DATABASE=db_template
 DB_USERNAME=root
 DB_PASSWORD=
 ```
