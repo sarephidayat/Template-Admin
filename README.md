@@ -1,7 +1,7 @@
 # Template-Admin
 # Laravel Admin Dashboard Template
 
-Proyek ini adalah **template dashboard admin** berbasis Laravel 11 yang sudah terintegrasi dengan autentikasi sederhana dan beberapa modul seperti **Dosen** dan **User**.
+Proyek ini adalah **template dashboard admin** berbasis Laravel 11 yang sudah terintegrasi dengan autentikasi sederhana dan beberapa modul seperti **Dosen**.
 Template ini bisa digunakan sebagai dasar untuk membangun sistem informasi akademik, manajemen data, dan lain-lain.
 
 ---
@@ -11,7 +11,6 @@ Template ini bisa digunakan sebagai dasar untuk membangun sistem informasi akade
 * Autentikasi login & logout sederhana
 * Dashboard dengan statistik data
 * CRUD untuk Dosen
-* CRUD untuk User
 * Tampilan UI berbasis Bootstrap & Stisla Template
 
 ---
